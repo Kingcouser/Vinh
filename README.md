@@ -14,11 +14,11 @@
 3. **Japanese**
 - In progress
 ## 📚 Favorite Books
-- **[Physics Principles with Applications]** <img src ="https://github.com/user-attachments/assets/429161f1-6cc3-473a-bf5e-2f528e097e6e" width ="200">
+- **[Physics Principles with Applications]** <img src ="https://github.com/user-attachments/assets/429161f1-6cc3-473a-bf5e-2f528e097e6e" width ="200"/>
  - Written by Giancoli, consisting of 33 sections about General Physics.
-- **[Data Structures and Algorithms in C++]** <img src ="https://github.com/user-attachments/assets/4aa1f32e-42f7-445b-a523-57365541b1fb" width ="200">
+- **[Data Structures and Algorithms in C++]** <img src ="https://github.com/user-attachments/assets/4aa1f32e-42f7-445b-a523-57365541b1fb" width ="200"/>
  - Written by Michael T.Goodrich, consisting of 14 sections about DSA in C++.
-- **[Artificial Intelligence: A Modern Approach]** <img src ="https://github.com/user-attachments/assets/6ca547d5-3848-4b7c-b879-f909c710146a" width ="200">
+- **[Artificial Intelligence: A Modern Approach]** <img src ="https://github.com/user-attachments/assets/6ca547d5-3848-4b7c-b879-f909c710146a" width ="200"/>
  - Written by Stuart Russell, consisting of 28 sections about AI in general.
 
 
