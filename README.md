@@ -11,7 +11,7 @@
 - Ielts 7.5 - Reading: 9.0 - Listening: 7.5 - Speaking: 7.0 - Writing 6.5
 - Capable of communicating with other English-speaking people.
 2. **Mentor**
-- I have been working for Collaborator for Funix for almost 4 months.
+- I have been working as a Collaborator for Funix for almost 4 months.
 3. **Japanese**
 - In progress
 
