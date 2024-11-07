@@ -16,7 +16,7 @@
 - In progress
 
 ## 📚 Favorite Books
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41E1t7JE9oL._SX322_BO1,204,203,200_.jpg" width="150"/> | <img src="https://images-na.ssl-images-amazon.com/images/I/41cr3wCX09L._SX379_BO1,204,203,200_.jpg" width="150"/> | <img src="https://images-na.ssl-images-amazon.com/images/I/41Z1rmiwFGL._SX331_BO1,204,203,200_.jpg" width="150"/> |
+| <img src="https://github.com/user-attachments/assets/429161f1-6cc3-473a-bf5e-2f528e097e6e"  width="150"/> | <img src="https://github.com/user-attachments/assets/4aa1f32e-42f7-445b-a523-57365541b1fb" width="150"/> | <img src="https://github.com/user-attachments/assets/6ca547d5-3848-4b7c-b879-f909c710146a" width="150"/> |
 |:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
 | **[Physics Principles with Applications]** <br> Written by Giancoli, consisting of 33 sections about General Physics. | **[Data Structures and Algorithms in C++]** <br> Written by Michael T.Goodrich, consisting of 14 sections about DSA in C++. | **[Artificial Intelligence: A Modern Approach]** <br> Written by Stuart Russell, consisting of 28 sections about AI in general. |
 
